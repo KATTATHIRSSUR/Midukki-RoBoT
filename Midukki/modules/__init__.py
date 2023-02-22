@@ -352,7 +352,7 @@ class vars(object):
             button()
                 (
                     "Source",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                        url="https://t.me/prime_cinimas"
                 )
         ],
         [
