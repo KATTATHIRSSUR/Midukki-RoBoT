@@ -214,8 +214,7 @@ ADMIN_PANEL = """
 
 FILE_CAPTION_TXT = """{file_name}"""
 
-SPELLCHECK_TXT = """Hey Mr 
-Check Your Spelling 
+SPELLCHECK_TXT = """helo sir please check your spelling 🤔 or that movie not released yet! Click to join button for DVD Update 🥰💞
 """
 
 IMDB_TEMPLATE_TXT = """
